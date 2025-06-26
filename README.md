@@ -39,7 +39,7 @@ User Function AlertaEstMin()
     MsgInfo("Relatório de estoque mínimo gerado com sucesso.")
 Return
 ```
-O código pode ser adaptado para gerar um PDF, HTML ou até enviar por e-mail para o comprador responsável.
+> O código pode ser adaptado para gerar um PDF, HTML ou até enviar por e-mail para o comprador responsável.
 
 ## 🧪 Cenários de teste - Controle de Estoque Mínimo
 
